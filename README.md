@@ -1,4 +1,5 @@
-﻿![EU Regional Development Fund](digidoc4j/src/main/doc/resources/EL_Regionaalarengu_Fond_horisontaalne-vaike.jpg)
+![EU Regional Development Fund](digidoc4j/src/main/doc/resources/EL_Regionaalarengu_Fond_horisontaalne-vaike.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fisabelavilhalba%2Fdigdoctest1.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fisabelavilhalba%2Fdigdoctest1?ref=badge_shield)
 
 
 # DigiDoc4j
@@ -86,6 +87,9 @@ The list of issues are tracked in [GitHub](https://github.com/open-eid/digidoc4j
 # Licence
 * LGPL (GNU Library General Public License, see LICENSE.LGPL)
 * © Estonian Information System Authority
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fisabelavilhalba%2Fdigdoctest1.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fisabelavilhalba%2Fdigdoctest1?ref=badge_large)
 
 ## Support
 Official builds are provided through [releases](https://github.com/open-eid/digidoc4j/releases). If you want support, you need to be using official builds. Contact for assistance by email [help@ria.ee](mailto:help@ria.ee).
